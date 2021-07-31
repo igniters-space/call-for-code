@@ -64,10 +64,44 @@ To encourage optimal water choices by consumers and to incentivize water sustain
 ![roadmap](./images/h-roadmap.png)
 
 ## Getting Started
+Please follow the following to run the application
+
+1. Clone the repository to a location of your Desktop by using git comand
+ ```sh
+cd ~/Desktop/
+git clone https://github.com/irsayvid/nirvana.git
+```
+2. Go to project folder by pressing following commands in terminal or shell
+```sh
+cd ~/Desktop
+cd nirvana
+```
+3. Open the project in Visual Studio or any editor of your choice
+
+4. Install all the dependencies using the following commands in both app and in directory client
+```sh 
+npm install
+cd client 
+npm install
+```
+5.run application by running either of the following two commands
+```sh
+npm start
+```
+```sh
+yarn start
+``` 
+
+6. The web app opens in **https://localhost:3000** in your browser
 
 ## Live Demo
 
 ## Built With
+- React
+- Firebase
+- IBM Cloud Functions
+- IBM API Gateway
+- IBM Watson
 
 ## Contributing guidilines
 
@@ -77,8 +111,8 @@ To encourage optimal water choices by consumers and to incentivize water sustain
 
 - [Agnihotri Shubhra](https://github.com/agnihotrishubhra)
 - [Anshuman Sandhibigraha](https://github.com/anshusandhi6)
-- [Divya Sri Darimisetti](https://github.com/irsayvid)
 - [Rupesh Darimisetti](https://github.com/Rupesh-Darimisetti)
+- [Divya Sri Darimisetti](https://github.com/irsayvid)
 - [Sairaj Chouhan](https://github.com/sairaj2119)
 
 ## License
