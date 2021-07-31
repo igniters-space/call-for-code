@@ -2,6 +2,20 @@
 
 ## Contents
 
+1. [Short description](#short-description)
+2. [Demo Video](#demo-video)
+3. [The Architecture](#the-architecture)
+4. [Long Description](#long-description)
+5. [Project Roadmap](#project-roadmap)
+6. [Getting Started](#getting-started)
+7. [Live Demo](#live-demo)
+8. [Built With](#built-with)
+9. [Contributing guidilines](#contributing-guidilines)
+10. [Versioning](#versioning)
+11. [License](#license)
+12. [Versioning](#versioning)
+13. [Acknowledgements](#acknowledgements)
+
 ## Short Description
 
 ### 1. What's the problem?
@@ -55,12 +69,20 @@ To encourage optimal water choices by consumers and to incentivize water sustain
 
 ## Built With
 
-## Contributing
+## Contributing guidilines
 
 ## Versioning
 
 ## Authors
 
+- [Agnihotri Shubhra](https://github.com/agnihotrishubhra)
+- [Anshuman Sandhibigraha](https://github.com/anshusandhi6)
+- [Divya Sri Darimisetti](https://github.com/irsayvid)
+- [Rupesh Darimisetti](https://github.com/Rupesh-Darimisetti)
+- [Sairaj Chouhan](https://github.com/sairaj2119)
+
 ## License
+
+[Apache License 2.0](./LICENSE)
 
 ## Acknowledgements
