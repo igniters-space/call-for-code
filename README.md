@@ -74,7 +74,7 @@ git clone https://github.com/irsayvid/nirvana.git
 2. Go to project folder by pressing following commands in terminal or shell
 ```sh
 cd ~/Desktop
-cd nirvana
+cd purgo
 ```
 3. Open the project in Visual Studio or any editor of your choice
 
